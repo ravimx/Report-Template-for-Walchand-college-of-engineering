@@ -1,0 +1,57 @@
+
+
+\newcommand\Certificate[1]{
+\btypeout{Certificate}
+\addtotoc{Certificate}
+\thispagestyle{plain}
+\begin{center}{\huge{\textit{Certificate}} \par}\end{center}
+{\normalsize #1}
+\vfil\vfil\null
+}
+
+\def\signature#1#2#3{\vbox{\hsize=4cm
+     \kern1cm
+     \hrule\kern1ex
+     \hbox to \hsize{\strut\hfil #1 \hfil}
+     \hbox to \hsize{\strut\hfil #2 \hfil}
+     \hbox to \hsize{\strut\hfil #3 \hfil}
+     }
+}
+\Certificate{
+  \begin{minipage}{\textwidth}
+\centering
+	 \includegraphics[width=2.2cm]{wcelogo.jpg}
+\end{minipage}
+\begin{center}
+%{\Huge \textsc{Certificate}}\\[0.5cm]
+\textit{ {\Large This is to certify that}}\\[1mm]
+\textbf{{\Large \authornames }}\\[1mm]
+\textit{Of \degreename \hspace{1pt} in \deptname \\has completed dissertation on}\\[2mm]
+{\Large \textquotedblleft{\textbf{\ttitle}\textquotedblright}\\[1mm]
+\textit{\large In the partial fulfillment for the award of}\\[1mm]
+\textbf{{\large \degreename}}\\[1mm]
+\textit{{\large In}}\\[1mm]
+\textbf{{\large \deptname}}\\[1mm]
+\textit{This dissertation work is record of student's own work carried out by him during the academic year 2014-2015 under the guidance of\\ \textbf{\supname}.}}
+\end{center}
+  % Here,replace text and add your text
+ \vspace{1cm}
+ \hbox to \hsize{\hfil
+%     \signature{\supname}{Guide}{}%\hfil
+%     \signature{}{External Examiner}
+     
+}\vspace{0.2cm}
+\hbox to \hsize{
+\signature{Dr. B.F.Momin}{Head of Department}{}\hfil
+%          \signature{}{External Examiner}{}\hfil
+          \signature{\supname}{Guide}{}
+%          \signature{Mr. S.N.Kore}{Academic dean}{}          
+     %     \signature{}{External Examiner}
+%          \signature{\authornames} {2013MCM011}{Student}
+          }
+}
+\hbox to \hsize{
+  \signature{}{External Examiner}{}\hfil
+          \signature{Mr. S.N.Kore}{Academic dean}{}  
+}
+\clearpage
