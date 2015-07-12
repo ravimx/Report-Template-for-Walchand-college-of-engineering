@@ -181,22 +181,23 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Collaborative Road Advisories Using Ubiquitous Smartphones} % Your thesis title - this is used in the title and abstract
+
+\thesistitle{Project/Dissertation Title} % Your thesis title - this is used in the title and abstract
 %-------------------------------------------------  
-\supervisor{Prof. Anil Surve} % You supervisor's name - this is used in the title page
+\supervisor{Prof. Abinay Ambure} % You supervisor's name - this is used in the title page
 %-------------------------------------------------   
 \examiner{} % Your examiner's name - this is not currently used anywhere in the template, cite it with \examname if you want it
 %-------------------------------------------------   
 \degree{Master of Technology} % Your degree name - this is currently used in the title page and abstract
 %-------------------------------------------------   
 %\authors{John \textsc{Smith}} % Your name - this is used in the title page and abstract
-\authors{Ravindra Nalavde} % Your name - this is used in the title page and abstract
+\authors{Madhav Kumar} % Your name - this is used in the title page and abstract
 %-------------------------------------------------   
 \addresses{} % Your address - this is not currently used anywhere in the template, cite it with \addressnames if you want it
 %-------------------------------------------------   
 \subject{} % Your subject area - this is not currently used anywhere in the template, cite it with \subjectname if you want it
 %-------------------------------------------------   
-\keywords{Pervasive Computing, Mobile sensor, Intelligent transportation system, Video Processing.} % Keywords for your thesis - this is not currently used anywhere in the template, cite it with \keywordnames if you want it
+\keywords{} % Keywords for your thesis - this is not currently used anywhere in the template, cite it with \keywordnames if you want it
 %-------------------------------------------------   
 %\university{\texorpdfstring{\href{http://www.walchandsangli.ac.in} % Your university's URL
  %               {University Name}} % Your university's name - this is currently used in the title page
@@ -207,15 +208,15 @@
                 {Computer Science and Engineering}}
 
 %-------------------------------------------------   
-\UNIVERSITY{\texorpdfstring{\href{http://www.walchandsangli.ac.in} % Your university's URL
+\UNIVERSITY{\texorpdfstring{\href{University Web Site URL Here (include http://)} % Your university's URL
                 {WALCHAND COLLEGE OF ENGINEERING}} % Your university's name in capitals - this is currently used in the abstract page
                 {COMPUTER SCIENCE AND ENGINEERING}}
 %-------------------------------------------------                
-\department{\texorpdfstring{\href{http://www.walchandsangli.ac.in/Departments/CSEDepartment/CSEDept.asp} % Your department's URL
+\department{\texorpdfstring{\href{Department or School Web Site URL Here (include http://)} % Your department's URL
                 {Computer Science and Engineering}} % Your department's name - used in the title page and abstract
                 {Computer Science and Engineering}}
 %-------------------------------------------------                
-\DEPARTMENT{\texorpdfstring{\href{http://www.walchandsangli.ac.in/Departments/CSEDepartment/CSEDept.asp} % Your department's URL
+\DEPARTMENT{\texorpdfstring{\href{Department or School Web Site URL Here (include http://)} % Your department's URL
                 {COMPUTER SCIENCE AND ENGINEERING}} % Your department's name in capitals - this is not currently used anywhere in the template, cite it with \DEPTNAME if you want it
                 {COMPUTER SCIENCE AND ENGINEERING}}
 %-------------------------------------------------                
@@ -227,14 +228,15 @@
                 {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}} % Your research group's name in capitals - this is not currently used anywhere in the template, cite it with \GROUPNAME if you want it
                 {RESEARCH GROUP NAME (IN BLOCK CAPITALS)}}
 %-------------------------------------------------                
-\faculty{\texorpdfstring{\href{http://www.walchandsangli.ac.in/Departments/CSEDepartment/SAR_Bio.asp} % Your faculty's URL
-                {Prof. Anil Surve}} % Your faculty's name - this is currently used in the abstract page
-                {Prof. Anil Surve}}
+\faculty{\texorpdfstring{\href{Faculty Web Site URL Here (include http://)} % Your faculty's URL
+                {Faculty Name}} % Your faculty's name - this is currently used in the abstract page
+                {Faculty Name}}
 %-------------------------------------------------                
-\FACULTY{\texorpdfstring{\href{http://www.walchandsangli.ac.in/Departments/CSEDepartment/SAR_Bio.asp} % Your faculty's URL
-                {PROF. ANIL SURVE}} % Your faculty's name in capitals - this is not currently used anywhere in the template, cite it with \FACNAME if you want it
-                {PROF. ANIL SURVE}}
+\FACULTY{\texorpdfstring{\href{Faculty Web Site URL Here (include http://)} % Your faculty's URL
+                {FACULTY NAME (IN BLOCK CAPITALS)}} % Your faculty's name in capitals - this is not currently used anywhere in the template, cite it with \FACNAME if you want it
+                {FACULTY NAME (IN BLOCK CAPITALS)}}
 %----------------------------------------------------------------------------------------    
+ 
 
 % The default title page, this is not used in this www.latextemplates.com version            
 \renewcommand\maketitle{
