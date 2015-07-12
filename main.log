@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.6)  12 JUL 2015 11:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.6)  10 JUL 2015 09:55
 entering extended mode
 **main.tex
 
@@ -760,7 +760,7 @@ ut")
 \@outlinefile=\write3
 
 ("D:\Report Template\Report-Template-for-Walchand-college-of-engineering\Certif
-icate/TitlePage.tex"
+icate/FrontPage.tex"
 LaTeX Font Info:    Try loading font information for U+msa on input line 25.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -947,11 +947,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 267.
  ) 
 Here is how much of TeX's memory you used:
- 13147 strings out of 493921
- 185560 string characters out of 3147285
- 250706 words of memory out of 3000000
- 16153 multiletter control sequences out of 15000+200000
- 21012 words of font info for 79 fonts, out of 3000000 for 9000
+ 13145 strings out of 493921
+ 185527 string characters out of 3147285
+ 250767 words of memory out of 3000000
+ 16151 multiletter control sequences out of 15000+200000
+ 20711 words of font info for 78 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  49i,11n,45p,776b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
@@ -972,7 +972,7 @@ c/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 tt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7
 .pfb>
-Output written on main.pdf (28 pages, 624081 bytes).
+Output written on main.pdf (28 pages, 625679 bytes).
 PDF statistics:
  500 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
